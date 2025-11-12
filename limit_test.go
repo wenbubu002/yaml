@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/wenbubu002/yaml"
 	. "gopkg.in/check.v1"
-	"github.com/wenbubu002/yaml/v2"
 )
 
 var limitTests = []struct {

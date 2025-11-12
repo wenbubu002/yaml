@@ -1,4 +1,4 @@
-module github.com/wenbubu002/yaml/v2
+module github.com/wenbubu002/yaml
 
 go 1.15
 
